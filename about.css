@@ -1,5 +1,5 @@
 *{
-  color: black;
+  color: white;
   padding: 0;
   margin: 0;
   text-decoration: none;
@@ -20,7 +20,7 @@ a{
 
 .wrapper{
   width: 1000px;
-  background: #93C8FF;
+  background: url("code.png");
   margin: 0 auto;
   padding-bottom: 20%;
 }
