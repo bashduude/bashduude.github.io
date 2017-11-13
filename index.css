@@ -4,6 +4,9 @@
   margin: 0;
   text-decoration: none;
 }
+.centered{
+  margin: 0 auto;
+}
 
 .body{
   background: #C8E3FF;
