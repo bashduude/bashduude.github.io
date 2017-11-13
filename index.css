@@ -1,4 +1,16 @@
+*{
+  color: black;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+.body{
+  background: #C8E3FF;
+}
+
 .wrapper{
-  width: 900px;
-  background: black;
+  width: 1000px;
+  background: #93C8FF;
+  margin: 0 auto;
 }
