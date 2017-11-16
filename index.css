@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
   text-decoration: none;
+  font-family: 'Amatic SC';
 }
 .centered{
   text-align: center;
@@ -16,6 +17,10 @@ a{
 
 .body{
   background: #C8E3FF;
+}
+
+p{
+  font-size: 2em;
 }
 
 .wrapper{
