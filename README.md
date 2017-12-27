@@ -1,1 +1,1 @@
-First commit of my porfolio site =)
+My first commit on GitHub :)
